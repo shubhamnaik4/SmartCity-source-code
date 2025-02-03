@@ -1,4 +1,4 @@
-# • Smart City Real-time Data Streaming Pipeline: D
+# • Smart City Real-time Data Streaming Pipeline: 
 
 
 ## Introduction
